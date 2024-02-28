@@ -16,4 +16,4 @@ I decided to created a website for a fake restuarant called 'Patel's kitchen' wh
 - Interactive navigation bar
 - Collage of Grayscale to Color pics on hover
 
-To look at the result, just clike on index.html and then play around with it.
+To look at the result, just clike on [here](https://pupat3l.github.io/Patel-s-Kitchen/) and then play around with it.
