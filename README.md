@@ -1,4 +1,4 @@
-# Patel-s-Kitchen
+# Patel's Kitchen
 
 ## Front-end static website Project
 For the semester long project for my Principles of Web Design class, we were tasked to create a static website with front-end technologies.
@@ -16,4 +16,4 @@ I decided to created a website for a fake restuarant called 'Patel's kitchen' wh
 - Interactive navigation bar
 - Collage of Grayscale to Color pics on hover
 
-To look at the result, just like on index.html and then play around with it.
+To look at the result, just clike on index.html and then play around with it.
